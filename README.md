@@ -29,3 +29,10 @@
    <img align="center"alt="gabs-3s"height="30"width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg%22%3E
    <img align="center"alt="gabs-React"height="30"width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg%22%3E
   <img align="center"alt="gabs-Python"height="30"width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg%22%3E
+
+##
+
+<div align="center">
+  <a href = "gabriellf.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-lima-fernandes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
