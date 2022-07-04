@@ -23,12 +23,12 @@
 
 ##
 
-<div align="center" style="display:inline_block"><br>
-  <img align="center"alt="gabs-HTML"height="30"width="48"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg%22%3E
-   <img align="center"alt="gabs-CSS"height="30"width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg%22%3E
-   <img align="center"alt="gabs-3s"height="30"width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg%22%3E
-   <img align="center"alt="gabs-React"height="30"width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg%22%3E
-  <img align="center"alt="gabs-Python"height="30"width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg%22%3E
+<div align="center" style="display:inline_block">
+  <img align="center" alt="gabs-HTML " height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg%22%3E
+   <img align="center" alt="gabs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg%22%3E
+   <img align="center" alt="gabs-3s" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg%22%3E
+   <img align="center" alt="gabs-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg%22%3E
+  <img align="center" alt="gabs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg%22%3E
 
 ##
 
