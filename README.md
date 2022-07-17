@@ -67,12 +67,11 @@
 </td>
 </tr>
 </table>
-                                                                                    
-                                                                                                                 
-<p  align="center">
-<img  src="https://hacked-github-stat-trophies-mu.vercel.app/?username=gabriellfernandes&theme=gruvbox&no-frame=true&column=5&margin-w=0&margin-h=0"  alt="Estatísticas do github de Gabriel Fernandes"/>
-</p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+                                                                                    
 <p  align="center">
 <a  href="https://github.com/gabriellfernandes/github-readme-activity-graph"><img  alt="Gráfico de atividades "  src="https://activity-graph.herokuapp.com/graph?username=gabriellfernandes&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&no-bg=true&no-frame=true" /></a>
 </p>
