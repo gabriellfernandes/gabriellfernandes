@@ -1,5 +1,8 @@
+<p aling="center">
+<img  src="https://5efce21e120dc77e32455754.static-01.com/l/images/845cda68ca249e4ec496eeef754dac637c252d16.gif" width="100%"</a>
+</p>
 <p  align="center">
-<img  src="https://komarev.com/ghpvc/?username=gabriellfernandes&style=flat-square&color=blueviolet"  width="100%"</a>
+🖖 Oi dev! Bem-vindo ao meu perfil! <img  src="https://komarev.com/ghpvc/?username=gabriellfernandes&style=flat-square&color=blueviolet"</a>
 </p>
 
 <br>
