@@ -2,15 +2,12 @@
 <img  src="https://pa1.narvii.com/7629/c250f8771c06dbd27ac2df35480d40b63f4f43ber1-500-288_hq.gif" width="100%"</a>
 </p>
 <p  align="center">
-🖖 Oi dev! Bem-vindo ao meu perfil! <br><img  src="https://komarev.com/ghpvc/?username=gabriellfernandes&style=flat-square&color=blue"</a>
-</p>
-
+🖖 Oi dev! Bem-vindo ao meu perfil! <br>
 <br>
-
-
-</br>
-                                                                                                                     
-<img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">                                                    
+<img  src="https://komarev.com/ghpvc/?username=gabriellfernandes&style=flat-square&color=blue" width="15%"</a>
+<br>
+<img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+</p>
 
 <details  align="center">
 <summary  style="font-size:30px; color:#03989EFF">Tecnologias e Ferramentas</summary>
