@@ -37,7 +37,7 @@
                                                                                                                           
 
 <details  align="center">
-<summary  style="font-size:25px; color:#03989EFF">Graphics Design</summary>
+<summary  style="font-size:25px; color:#03989EFF">Design Gráfico</summary>
 <br>
 <p  align="center">
 <img  alt="Figma"  src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
@@ -45,7 +45,7 @@
 </details>
 
 <details  align="center">
-<summary  style="font-size:25px; color:#03989EFF">Learning Tools and Platforms</summary>
+<summary  style="font-size:25px; color:#03989EFF">Ferramentas e plataformas de aprendizagem</summary>
 <br>
 <p  align="center">
 <img  alt="Codepen"  src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
@@ -53,10 +53,6 @@
 </p>
 </details>
                                                                                                                  
-<details  align="center">
-<summary  style="font-size:25px; color:#03989EFF">Gaming Platforms and Technologies</summary>
-<br>
-</details>
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -75,32 +71,6 @@
 </tr>
 </table>
                                                                                     
-<p  align="center">
-<a href="https://github.com/mark123jesper/mark123jesper.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriellfernandes&repo=gabriellfernandes.github.io&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
-</a>
-<a href="https://github.com/mark123jesper/mark123jesper-v1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriellfernandes&repo=gabriellfernandes-v1&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriellfernandesr&repo=digi-life-magazine&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
-</a>
-<a href="https://github.com/mark123jesper/dot-logix">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriellfernandes&repo=dot-logix&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
-</a>
-<a href="https://github.com/mark123jesper/PHP-fullstack-training">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriellfernandes&repo=PHP-fullstack-training&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
-</a>
-<a href="https://github.com/mark123jesper/react-todos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriellfernandes&repo=react-todos&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
-</a>
-<a href="https://github.com/mark123jesper/codewars-solutions">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriellfernandes&repo=codewars-solutions&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
-</a>
-<a href="https://github.com/mark123jesper/react-meetup">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriellfernandes&repo=react-meetup&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
-</a>
-</p>
                                                                                                                  
 <p  align="center">
 <img  src="https://hacked-github-stat-trophies-mu.vercel.app/?username=gabriellfernandes&theme=gruvbox&no-frame=true&column=5&margin-w=0&margin-h=0"  alt="Mark Jesper github stats"/>
