@@ -1,8 +1,8 @@
 <p aling="center">
-<img  src="https://5efce21e120dc77e32455754.static-01.com/l/images/845cda68ca249e4ec496eeef754dac637c252d16.gif" width="100%"</a>
+<img  src="https://pa1.narvii.com/7629/c250f8771c06dbd27ac2df35480d40b63f4f43ber1-500-288_hq.gif" width="100%"</a>
 </p>
 <p  align="center">
-🖖 Oi dev! Bem-vindo ao meu perfil! <img  src="https://komarev.com/ghpvc/?username=gabriellfernandes&style=flat-square&color=blueviolet"</a>
+🖖 Oi dev! Bem-vindo ao meu perfil! <br><img  src="https://komarev.com/ghpvc/?username=gabriellfernandes&style=flat-square&color=blue"</a>
 </p>
 
 <br>
@@ -68,7 +68,7 @@
 </td>
 
 <td width="50%" align="center">
-<img  title="🔥 Obtenha estatísticas de sequência para o seu perfil em git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellfernandes&theme=dark&hide_border=true" />
+<img  title="🔥 Obtenha estatísticas de sequência para o seu perfil em git.io/streak-stats" alt="Gabriel" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellfernandes&theme=dark&hide_border=true" />
 <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=gabriellfernandes&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
 </td>
 </tr>
