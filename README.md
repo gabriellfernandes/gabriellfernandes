@@ -1,5 +1,5 @@
 <p  align="center">
-<img  src="[https://user-images.githubusercontent.com/83439062/132115677-b1199fd5-0180-4ff4-a51c-6fe5b092b500.gif](https://komarev.com/ghpvc/?username=luis-gustavoj&style=flat-square&color=blueviolet)"  width="100%"</a>
+<img  src="https://komarev.com/ghpvc/?username=gabriellfernandes&style=flat-square&color=blueviolet"  width="100%"</a>
 </p>
 
 <br>
@@ -65,7 +65,7 @@
 </td>
 
 <td width="50%" align="center">
-<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellfernandes&theme=dark&hide_border=true" />
+<img  title="🔥 Obtenha estatísticas de sequência para o seu perfil em git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellfernandes&theme=dark&hide_border=true" />
 <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=gabriellfernandes&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
 </td>
 </tr>
@@ -73,18 +73,18 @@
                                                                                     
                                                                                                                  
 <p  align="center">
-<img  src="https://hacked-github-stat-trophies-mu.vercel.app/?username=gabriellfernandes&theme=gruvbox&no-frame=true&column=5&margin-w=0&margin-h=0"  alt="Mark Jesper github stats"/>
+<img  src="https://hacked-github-stat-trophies-mu.vercel.app/?username=gabriellfernandes&theme=gruvbox&no-frame=true&column=5&margin-w=0&margin-h=0"  alt="Estatísticas do github de Gabriel Fernandes"/>
 </p>
 
 <p  align="center">
-<a  href="https://github.com/mark123jesper/github-readme-activity-graph"><img  alt="Mark's Activity Graph"  src="https://activity-graph.herokuapp.com/graph?username=gabriellfernandes&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&no-bg=true&no-frame=true" /></a>
+<a  href="https://github.com/mark123jesper/github-readme-activity-graph"><img  alt="Gráfico de atividades "  src="https://activity-graph.herokuapp.com/graph?username=gabriellfernandes&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&no-bg=true&no-frame=true" /></a>
 </p>
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
                                                                                          
-<p  align="center"><em>Eu amo me conectar com as pessoas, então se você quiser dizer oi, ficarei mais feliz em conhecê-lo!</em></p>
+<p  align="center"><em>❤️Eu amo me conectar com as pessoas, então se você quiser dizer oi, ficarei mais feliz em conhecê-lo!</em></p>
 <br>
 <p  align="center">
 <a  href="https://www.linkedin.com/in/gabriellfernandes"><img  alt="LinkedIn"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
