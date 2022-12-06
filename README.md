@@ -89,7 +89,7 @@
 </p>
                                                                                     
 <p  align="center">
-<a  href="https://github.com/gabriellfernandes/github-readme-activity-graph"><img  alt="Gráfico de atividades "  src="https://activity-graph.herokuapp.com/graph?username=gabriellfernandes&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&no-bg=true&no-frame=true" /></a>
+<a  href="https://github.com/gabriellfernandes/github-readme-activity-graph"><img  alt="Gráfico de atividades "  src="https://github-readme-activity-graph.cyclic.app/graph?username=gabriellfernandes&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&no-bg=true&no-frame=true" /></a>
 </p>
 
 <p  align="center">
