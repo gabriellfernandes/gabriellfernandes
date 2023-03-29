@@ -50,14 +50,6 @@
                                                                                                                           
 
 <details  align="center">
-<summary  style="font-size:25px; color:#03989EFF">Design Gráfico</summary>
-<br>
-<p  align="center">
-<img  alt="Figma"  src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
-</details>
-
-<details  align="center">
 <summary  style="font-size:25px; color:#03989EFF">Ferramentas e plataformas de aprendizagem</summary>
 <br>
 <p  align="center">
