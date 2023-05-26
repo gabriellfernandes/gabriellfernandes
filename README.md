@@ -72,7 +72,7 @@
 </p>
                                                                                     
 <p  align="center">
-<a  href="https://github-readme-activity-graph.vercel.app/graph?username=gabriellfernandes&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&no-bg=true&no-frame=true"><img  alt="Gráfico de atividades"  src="https://github-readme-activity-graph.vercel.app/graph?username=gabriellfernandes&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&no-bg=true&no-frame=true" /></a>
+<a  href="https://github-readme-activity-graph.vercel.app/graph?username=gabriellfernandes&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&no-bg=true&no-frame=true" target="_blank"><img  alt="Gráfico de atividades"  src="https://github-readme-activity-graph.vercel.app/graph?username=gabriellfernandes&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&no-bg=true&no-frame=true" /></a>
 </p>
 
 <p  align="center">
