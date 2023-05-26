@@ -49,16 +49,7 @@
 </details>
                                                                                                                           
 
-<details  align="center">
-<summary  style="font-size:25px; color:#03989EFF">Ferramentas e plataformas de aprendizagem</summary>
-<br>
-<p  align="center">
-<img  alt="Codepen"  src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
-<img  alt="Codewars"  src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"/>
-</p>
-</details>
-                                                                                                                 
-
+                                                                                                  
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>  
@@ -81,7 +72,7 @@
 </p>
                                                                                     
 <p  align="center">
-<a  href="https://github.com/gabriellfernandes/github-readme-activity-graph"><img  alt="Gráfico de atividades "  src="https://github-readme-activity-graph.cyclic.app/graph?username=gabriellfernandes&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&no-bg=true&no-frame=true" /></a>
+<a  href="https://github-readme-activity-graph.vercel.app/graph?username=gabriellfernandes&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&no-bg=true&no-frame=true"><img  alt="Gráfico de atividades"  src="https://github-readme-activity-graph.vercel.app/graph?username=gabriellfernandes&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&no-bg=true&no-frame=true" /></a>
 </p>
 
 <p  align="center">
