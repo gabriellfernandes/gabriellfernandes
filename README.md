@@ -83,6 +83,6 @@
 <br>
 <p  align="center">
 <a  href="https://www.linkedin.com/in/gabriel-lima-fernandes/"><img  alt="LinkedIn"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a  href="https://discord.com/users/396649772011880451"><img  alt="Discord"  src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a  href="https://api.whatsapp.com/send?phone=+55++5519971113970&text=Ol%C3%A1%2C%20venho%20por%20meio%20do%20seu%20github%20na%20internet%2C%20gostaria%20de%20conhecer%20melhor%20seus%20servi%C3%A7os"><img  alt="WhatsApp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
