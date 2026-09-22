@@ -27,10 +27,6 @@
 
 ### Um pouco de atividade
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=gabriellfernandes&theme=dark&hide_border=true&background=0D1117&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2" alt="Sequência de contribuições"/>
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabriellfernandes/gabriellfernandes/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabriellfernandes/gabriellfernandes/output/github-contribution-grid-snake.svg">
